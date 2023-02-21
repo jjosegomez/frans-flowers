@@ -1,0 +1,46 @@
+section, footer {
+  padding: 0 30px 30px 30px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header, footer {
+  text-align: center;
+}
+
+hr {
+  max-width: 910px;
+}
+
+#hero-container {
+  margin: auto;
+  max-width: 910px;
+  padding: 0 30px;
+}
+
+#owner {
+  background-image: url("img/owner.png");
+  background-repeat: none;
+  background-size: cover;
+  background-position: 0 30%;
+  height: 450px;
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
+
+.specials img {
+  width: 200px;
+}
+
+.specials td {
+  padding: 10px;
+  text-align: center;
+}
+
+iframe { 
+  width: 100%;
+  height: 350px;
+}
